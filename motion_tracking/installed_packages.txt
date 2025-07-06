@@ -1,0 +1,104 @@
+# packages in environment at C:\Users\ghksc\anaconda3\envs\OpenCV:
+#
+# Name                    Version                   Build  Channel
+absl-py                   2.1.0                    pypi_0    pypi
+astunparse                1.6.3                    pypi_0    pypi
+attrs                     24.3.0                   pypi_0    pypi
+blas                      1.0                         mkl  
+bottleneck                1.3.7            py38h9128911_0  
+ca-certificates           2024.12.31           haa95532_0  
+cachetools                5.5.1                    pypi_0    pypi
+certifi                   2024.12.14               pypi_0    pypi
+cffi                      1.17.1                   pypi_0    pypi
+charset-normalizer        3.4.1                    pypi_0    pypi
+contourpy                 1.1.1                    pypi_0    pypi
+cycler                    0.12.1                   pypi_0    pypi
+flatbuffers               25.1.24                  pypi_0    pypi
+fonttools                 4.55.6                   pypi_0    pypi
+gast                      0.4.0                    pypi_0    pypi
+google-api-core           2.25.1                   pypi_0    pypi
+google-auth               2.38.0                   pypi_0    pypi
+google-auth-oauthlib      1.0.0                    pypi_0    pypi
+google-cloud-language     2.17.2                   pypi_0    pypi
+google-pasta              0.2.0                    pypi_0    pypi
+googleapis-common-protos  1.70.0                   pypi_0    pypi
+grpcio                    1.70.0                   pypi_0    pypi
+grpcio-status             1.70.0                   pypi_0    pypi
+h5py                      3.11.0                   pypi_0    pypi
+idna                      3.10                     pypi_0    pypi
+importlib-metadata        8.5.0                    pypi_0    pypi
+importlib-resources       6.4.5                    pypi_0    pypi
+intel-openmp              2023.1.0         h59b6b97_46320  
+jax                       0.4.13                   pypi_0    pypi
+joblib                    1.4.2                    pypi_0    pypi
+keras                     2.13.1                   pypi_0    pypi
+kiwisolver                1.4.7                    pypi_0    pypi
+libclang                  18.1.1                   pypi_0    pypi
+libffi                    3.4.4                hd77b12b_1  
+markdown                  3.7                      pypi_0    pypi
+markupsafe                2.1.5                    pypi_0    pypi
+matplotlib                3.7.5                    pypi_0    pypi
+mediapipe                 0.10.11                  pypi_0    pypi
+mkl                       2023.1.0         h6b88ed4_46358  
+mkl-service               2.4.0            py38h2bbff1b_1  
+mkl_fft                   1.3.8            py38h2bbff1b_0  
+mkl_random                1.2.4            py38h59b6b97_0  
+ml-dtypes                 0.2.0                    pypi_0    pypi
+mouseinfo                 0.1.3                    pypi_0    pypi
+numexpr                   2.8.4            py38h7b80656_1  
+numpy                     1.24.4                   pypi_0    pypi
+numpy-base                1.24.3           py38h8a87ada_1  
+oauthlib                  3.2.2                    pypi_0    pypi
+opencv-contrib-python     4.11.0.86                pypi_0    pypi
+opencv-python             4.11.0.86                pypi_0    pypi
+openssl                   3.0.15               h827c3e9_0  
+opt-einsum                3.4.0                    pypi_0    pypi
+packaging                 24.2                     pypi_0    pypi
+pandas                    2.0.3            py38h4ed8f06_0  
+pillow                    10.4.0                   pypi_0    pypi
+pip                       24.2             py38haa95532_0  
+proto-plus                1.26.1                   pypi_0    pypi
+protobuf                  5.29.5                   pypi_0    pypi
+pyasn1                    0.6.1                    pypi_0    pypi
+pyasn1-modules            0.4.1                    pypi_0    pypi
+pyautogui                 0.9.54                   pypi_0    pypi
+pycparser                 2.22                     pypi_0    pypi
+pygetwindow               0.0.9                    pypi_0    pypi
+pymsgbox                  1.0.9                    pypi_0    pypi
+pyparsing                 3.1.4                    pypi_0    pypi
+pyperclip                 1.9.0                    pypi_0    pypi
+pyrect                    0.2.0                    pypi_0    pypi
+pyscreeze                 1.0.1                    pypi_0    pypi
+pyserial                  3.5                      pypi_0    pypi
+python                    3.8.20               h8205438_0  
+python-dateutil           2.9.0post0       py38haa95532_2  
+python-tzdata             2023.3             pyhd3eb1b0_0  
+pytweening                1.2.0                    pypi_0    pypi
+pytz                      2024.1           py38haa95532_0  
+requests                  2.32.3                   pypi_0    pypi
+requests-oauthlib         2.0.0                    pypi_0    pypi
+rsa                       4.9                      pypi_0    pypi
+scikit-learn              1.3.2                    pypi_0    pypi
+scipy                     1.10.1                   pypi_0    pypi
+screeninfo                0.8.1                    pypi_0    pypi
+setuptools                75.1.0           py38haa95532_0  
+six                       1.17.0                   pypi_0    pypi
+sounddevice               0.5.1                    pypi_0    pypi
+sqlite                    3.45.3               h2bbff1b_0  
+tbb                       2021.8.0             h59b6b97_0  
+tensorboard               2.13.0                   pypi_0    pypi
+tensorboard-data-server   0.7.2                    pypi_0    pypi
+tensorflow                2.13.0                   pypi_0    pypi
+tensorflow-estimator      2.13.0                   pypi_0    pypi
+tensorflow-intel          2.13.0                   pypi_0    pypi
+tensorflow-io-gcs-filesystem 0.31.0                   pypi_0    pypi
+termcolor                 2.4.0                    pypi_0    pypi
+threadpoolctl             3.5.0                    pypi_0    pypi
+typing-extensions         4.5.0                    pypi_0    pypi
+urllib3                   2.2.3                    pypi_0    pypi
+vc                        14.40                haa95532_2  
+vs2015_runtime            14.42.34433          h9531ae6_2  
+werkzeug                  3.0.6                    pypi_0    pypi
+wheel                     0.44.0           py38haa95532_0  
+wrapt                     1.17.2                   pypi_0    pypi
+zipp                      3.20.2                   pypi_0    pypi
